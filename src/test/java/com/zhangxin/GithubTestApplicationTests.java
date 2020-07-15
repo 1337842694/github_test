@@ -14,4 +14,11 @@ public class GithubTestApplicationTests {
         System.out.println("lalallallla");
     }
 
+    @Test
+    public void aa() {
+        int a = 0;
+        int b = 1;
+        System.out.println(a+b);
+    }
+
 }
